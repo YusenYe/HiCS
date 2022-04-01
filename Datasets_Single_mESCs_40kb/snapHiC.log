@@ -1,0 +1,4 @@
+Fri Apr  1 16:20:05 2022: starting the binning step
+Fri Apr  1 16:20:07 2022: binning completed
+Fri Apr  1 16:20:07 2022: Starting rl step. Additional logs for cells being processed will be written to: Datasets_Single_mESCs_40kb\rl_csc_95\log.rl.txt
+Fri Apr  1 16:26:53 2022: RL computation completed for all cells
